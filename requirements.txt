@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+matplotlib
+ipykernel
+ipdb
+tqdm
+sentencepiece
+wandb
+torch
